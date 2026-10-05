@@ -44,12 +44,7 @@ guarantee. You don't need to buy anything to use the decks in this repository.
 
 ## How these decks were made
 
-The example sentences were generated with an LLM (OpenAI) from a word list,
-then synthesized to audio. They were not written by teachers or reviewed by
-native speakers. Before publishing, we read every card in this repository
-(an AI-assisted check, not a native-speaker review). Errors we found are listed
-under "Known issues" in each deck's README. They are not corrected in the files,
-so what you download matches what customers get.
+Example sentences are AI-generated. Known errors are listed in each deck's README.
 
 ## License
 
