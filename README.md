@@ -44,7 +44,8 @@ guarantee. You don't need to buy anything to use the decks in this repository.
 
 ## How these decks were made
 
-Example sentences are AI-generated. Known errors are listed in each deck's README.
+Each word list is crafted into context sentences, complemented with region-specific
+audio: Spain Spanish, France French, Germany German and Brazilian Portuguese.
 
 ## License
 
