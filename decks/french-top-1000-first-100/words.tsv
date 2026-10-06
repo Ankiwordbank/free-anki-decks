@@ -12,7 +12,7 @@ rank	word	sentence	english	audio_file
 11	tu	Tu veux aller au cinéma ce soir ?	Do you want to go to the movies tonight?	Tu_veux_aller_au_cinema_ce_soir_french.mp3
 12	c'	C'est super d'aller au cinéma ce soir !	It's great to go to the movies tonight!	Cest_super_daller_au_cinema_ce_soir_french.mp3
 13	l'	J'ai acheté l'album que tu m'as recommandé.	I bought the album you recommended to me.	Jai_achete_lalbum_que_tu_mas_recommande_french.mp3
-14	a	J'ai un livre intéressant à te montrer.	I have an interesting book to show you.	Jai_un_livre_interessant_a_te_montrer_french.mp3
+14	a	Elle a deux chats à la maison.	She has two cats at home.	Elle_a_deux_chats_a_la_maison_french.mp3
 15	il	Il fait beau aujourd'hui, allons nous promener.	It's nice out today, let's go for a walk.	Il_fait_beau_aujourdhui_allons_nous_promener_french.mp3
 16	les	J'ai acheté les légumes au marché ce matin.	I bought the vegetables at the market this morning.	Jai_achete_les_legumes_au_marche_ce_matin_french.mp3
 17	ne	Je ne sais pas où il est allé.	I don't know where he went.	Je_ne_sais_pas_ou_il_est_alle_french.mp3
@@ -29,7 +29,7 @@ rank	word	sentence	english	audio_file
 28	mais	J'aime le chocolat, mais je préfère les fruits.	I love chocolate, but I prefer fruit.	Jaime_le_chocolat_mais_je_prefere_les_fruits_french.mp3
 29	d'	J'ai besoin d'un café pour me réveiller.	I need a coffee to wake up.	Jai_besoin_dun_cafe_pour_me_reveiller_french.mp3
 30	qui	Je ne sais pas qui a pris mon livre.	I don't know who took my book.	Je_ne_sais_pas_qui_a_pris_mon_livre_french.mp3
-31	qu'	Je ne sais pas qu'il vient ce soir.	I didn't know he was coming tonight.	Je_ne_sais_pas_quil_vient_ce_soir_french.mp3
+31	qu'	Je pense qu'il vient ce soir.	I think he's coming tonight.	Je_pense_quil_vient_ce_soir_french.mp3
 32	dans	J'ai mis mes clés dans mon sac.	I put my keys in my bag.	Jai_mis_mes_cles_dans_mon_sac_french.mp3
 33	nous	Nous allons au cinéma ce soir.	We're going to the movies tonight.	Nous_allons_au_cinema_ce_soir_french.mp3
 34	me	Tu peux me prêter ton livre, s'il te plaît ?	Can you lend me your book, please?	Tu_peux_me_preter_ton_livre_sil_te_plait_french.mp3
@@ -45,7 +45,7 @@ rank	word	sentence	english	audio_file
 44	tout	J'ai tout ce dont j'ai besoin pour la fête.	I have everything I need for the party.	Jai_tout_ce_dont_jai_besoin_pour_la_fete_french.mp3
 45	non	Non, je ne veux pas aller au cinéma ce soir.	No, I don't want to go to the movies tonight.	Non_je_ne_veux_pas_aller_au_cinema_ce_soir_french.mp3
 46	y	J'y vais souvent le week-end avec des amis.	I often go there on weekends with friends.	Jy_vais_souvent_le_week-end_avec_des_amis_french.mp3
-47	m'	M'ennuie un peu, tu as quelque chose à faire ?	I'm a bit bored, do you have something to do?	Mennuie_un_peu_tu_as_quelque_chose_a_faire_french.mp3
+47	m'	Je m'ennuie un peu, tu as quelque chose à faire ?	I'm a bit bored, do you have something to do?	Je_mennuie_un_peu_tu_as_quelque_chose_a_faire_french.mp3
 48	plus	J'aime plus le chocolat que les bonbons.	I like chocolate more than candy.	Jaime_plus_le_chocolat_que_les_bonbons_french.mp3
 49	fait	Il fait toujours beau ici au printemps.	It's always nice here in spring.	Il_fait_toujours_beau_ici_au_printemps_french.mp3
 50	au	Je vais au marché ce matin.	I'm going to the market this morning.	Je_vais_au_marche_ce_matin_french.mp3
@@ -57,7 +57,7 @@ rank	word	sentence	english	audio_file
 56	ils	Ils vont au cinéma ce soir.	They are going to the movies tonight.	Ils_vont_au_cinema_ce_soir_french.mp3
 57	sur	Le livre est sur la table dans le salon.	The book is on the table in the living room.	Le_livre_est_sur_la_table_dans_le_salon_french.mp3
 58	va	Il va au marché tous les samedis.	He goes to the market every Saturday.	Il_va_au_marche_tous_les_samedis_french.mp3
-59	se	Je me lève tôt pour aller au travail.	I get up early to go to work.	Je_me_leve_tot_pour_aller_au_travail_french.mp3
+59	se	Ils se voient tous les week-ends.	They see each other every weekend.	Ils_se_voient_tous_les_weekends_french.mp3
 60	faire	Je vais faire les courses cet après-midi.	I'm going to do the shopping this afternoon.	Je_vais_faire_les_courses_cet_apres-midi_french.mp3
 61	s'	Il s'est levé tôt ce matin pour travailler.	He got up early this morning to work.	Il_sest_leve_tot_ce_matin_pour_travailler_french.mp3
 62	comme	Je vais au cinéma comme d'habitude ce soir.	I'm going to the movies like usual tonight.	Je_vais_au_cinema_comme_dhabitude_ce_soir_french.mp3
@@ -73,7 +73,7 @@ rank	word	sentence	english	audio_file
 72	lui	Je vais lui parler après le dîner.	I'm going to talk to him after dinner.	Je_vais_lui_parler_apres_le_diner_french.mp3
 73	votre	J'ai vu votre nouveau livre hier à la bibliothèque.	I saw your new book at the library yesterday.	Jai_vu_votre_nouveau_livre_hier_a_la_bibliotheque_french.mp3
 74	pourquoi	Pourquoi tu ne viens pas à la fête ce soir ?	Why aren't you coming to the party tonight?	Pourquoi_tu_ne_viens_pas_a_la_fete_ce_soir_french.mp3
-75	es	C'est un bon moment pour parler, non ?	It's a good time to talk, isn't it?	Cest_un_bon_moment_pour_parler_non_french.mp3
+75	es	Tu es vraiment gentil avec moi.	You're really kind to me.	Tu_es_vraiment_gentil_avec_moi_french.mp3
 76	rien	Je n'ai rien à dire pour l'instant.	I have nothing to say for now.	Je_nai_rien_a_dire_pour_linstant_french.mp3
 77	cette	J'aime beaucoup cette chanson, elle est très touchante.	I really like this song; it's very moving.	Jaime_beaucoup_cette_chanson_elle_est_tres_touch_french.mp3
 78	où	Tu sais où se trouve le café ?	Do you know where the café is?	Tu_sais_ou_se_trouve_le_cafe_french.mp3
@@ -86,7 +86,7 @@ rank	word	sentence	english	audio_file
 85	avez	Est-ce que vous avez un stylo à me prêter ?	Do you have a pen I can borrow?	Est-ce_que_vous_avez_un_stylo_a_me_preter_french.mp3
 86	vais	Je vais au cinéma ce soir avec mes amis.	I'm going to the movies tonight with my friends.	Je_vais_au_cinema_ce_soir_avec_mes_amis_french.mp3
 87	comment	Comment tu as fait pour arriver si tôt ?	How did you manage to get here so early?	Comment_tu_as_fait_pour_arriver_si_tot_french.mp3
-88	ou	Tu sais où je peux trouver un bon café ?	Do you know where I can find a good café?	Tu_sais_ou_je_peux_trouver_un_bon_cafe_french.mp3
+88	ou	Tu veux du thé ou du café ?	Do you want tea or coffee?	Tu_veux_du_the_ou_du_cafe_french.mp3
 89	chose	J'ai oublié cette chose importante à la maison.	I forgot that important thing at home.	Jai_oublie_cette_chose_importante_a_la_maison_french.mp3
 90	dire	Je vais te dire un secret, mais ne le dis à personne !	I'm going to tell you a secret, but don't tell anyone!	Je_vais_te_dire_un_secret_mais_ne_le_dis_a_person_french.mp3
 91	bon	Ce gâteau est vraiment bon, tu devrais en goûter.	This cake is really good; you should try some.	Ce_gateau_est_vraiment_bon_tu_devrais_en_gouter_french.mp3

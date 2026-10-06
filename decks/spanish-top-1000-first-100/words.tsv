@@ -5,7 +5,7 @@ rank	word	sentence	english	audio_file
 4	en	Estoy en casa, ¿quieres venir?	I'm at home, do you want to come over?	Estoy_en_casa_quieres_venir_spanish.mp3
 5	la	La comida en este restaurante es deliciosa.	The food at this restaurant is delicious.	La_comida_en_este_restaurante_es_deliciosa_spanish.mp3
 6	de	El libro de María es muy interesante.	María's book is very interesting.	El_libro_de_Maria_es_muy_interesante_spanish.mp3
-7	que	¿Qué quieres comer esta noche?	What do you want to eat tonight?	Que_quieres_comer_esta_noche_spanish.mp3
+7	que	Dice que viene a la fiesta esta noche.	He says he's coming to the party tonight.	Dice_que_viene_a_la_fiesta_esta_noche_spanish.mp3
 8	se	Se dice que va a llover mañana.	They say it's going to rain tomorrow.	Se_dice_que_va_a_llover_manana_spanish.mp3
 9	el	El perro de mi amigo es muy juguetón.	My friend’s dog is very playful.	El_perro_de_mi_amigo_es_muy_jugueton_spanish.mp3
 10	un	Quiero comprar un libro nuevo este fin de semana.	I want to buy a new book this weekend.	Quiero_comprar_un_libro_nuevo_este_fin_de_semana_spanish.mp3
@@ -15,7 +15,7 @@ rank	word	sentence	english	audio_file
 14	su	Su coche es muy rápido y moderno.	His car is very fast and modern.	Su_coche_es_muy_rapido_y_moderno_spanish.mp3
 15	con	Quiero un café con leche, por favor.	I would like a coffee with milk, please.	Quiero_un_cafe_con_leche_por_favor_spanish.mp3
 16	para	Este regalo es para ti, espero que te guste.	This gift is for you; I hope you like it.	Este_regalo_es_para_ti_espero_que_te_guste_spanish.mp3
-17	como	¿Cómo te sientes hoy después de la clase?	How do you feel today after class?	Como_te_sientes_hoy_despues_de_la_clase_spanish.mp3
+17	como	Es tan alto como su padre.	He's as tall as his father.	Es_tan_alto_como_su_padre_spanish.mp3
 18	estar	Estoy cansado después de trabajar todo el día.	I'm tired after working all day.	Estoy_cansado_despues_de_trabajar_todo_el_dia_spanish.mp3
 19	lo	Lo vi en el parque ayer con sus amigos.	I saw him in the park yesterday with his friends.	Lo_vi_en_el_parque_ayer_con_sus_amigos_spanish.mp3
 20	le	Le voy a dar un regalo a mi amigo.	I'm going to give a gift to my friend.	Le_voy_a_dar_un_regalo_a_mi_amigo_spanish.mp3
@@ -24,7 +24,7 @@ rank	word	sentence	english	audio_file
 23	tener	Tengo que estudiar para el examen de mañana.	I have to study for tomorrow's exam.	Tengo_que_estudiar_para_el_examen_de_manana_spanish.mp3
 24	todo	Quiero comer todo lo que hay en la mesa.	I want to eat everything that's on the table.	Quiero_comer_todo_lo_que_hay_en_la_mesa_spanish.mp3
 25	poder	¿Puedes ayudarme con mi tarea esta noche?	Can you help me with my homework tonight?	Puedes_ayudarme_con_mi_tarea_esta_noche_spanish.mp3
-26	o	Quieres té o café con tu desayuno?	Do you want tea or coffee with your breakfast?	Quieres_te_o_cafe_con_tu_desayuno_spanish.mp3
+26	o	¿Quieres té o café con tu desayuno?	Do you want tea or coffee with your breakfast?	Quieres_te_o_cafe_con_tu_desayuno_spanish.mp3
 27	pero	Quiero ir al cine, pero no tengo dinero.	I want to go to the movies, but I don't have any money.	Quiero_ir_al_cine_pero_no_tengo_dinero_spanish.mp3
 28	este	Este libro es muy interesante y lo recomiendo.	This book is really interesting, and I recommend it.	Este_libro_es_muy_interesante_y_lo_recomiendo_spanish.mp3
 29	ir	Vamos a ir al cine esta noche.	We're going to the movies tonight.	Vamos_a_ir_al_cine_esta_noche_spanish.mp3
@@ -38,7 +38,7 @@ rank	word	sentence	english	audio_file
 37	muy	Este café está muy caliente, ten cuidado.	This coffee is very hot, be careful.	Este_cafe_esta_muy_caliente_ten_cuidado_spanish.mp3
 38	si	Si quieres, podemos ir al cine esta noche.	If you want, we can go to the movies tonight.	Si_quieres_podemos_ir_al_cine_esta_noche_spanish.mp3
 39	dar	Siempre trato de dar lo mejor de mí en el trabajo.	I always try to give my best at work.	Siempre_trato_de_dar_lo_mejor_de_mi_en_el_trabajo_spanish.mp3
-40	cuando	¿Cuándo vas a visitar a tu familia?	When are you going to visit your family?	Cuando_vas_a_visitar_a_tu_familia_spanish.mp3
+40	cuando	Cuando llego a casa, siempre preparo la cena.	When I get home, I always make dinner.	Cuando_llego_a_casa_siempre_preparo_la_cena_spanish.mp3
 41	ya	Ya terminé mi tarea, ahora puedo descansar.	I’ve finished my homework, now I can relax.	Ya_termine_mi_tarea_ahora_puedo_descansar_spanish.mp3
 42	mucho	Hay mucho tráfico en la ciudad hoy.	There's a lot of traffic in the city today.	Hay_mucho_trafico_en_la_ciudad_hoy_spanish.mp3
 43	sin	No puedo vivir sin mi café por la mañana.	I can't live without my coffee in the morning.	No_puedo_vivir_sin_mi_cafe_por_la_manana_spanish.mp3
@@ -48,7 +48,7 @@ rank	word	sentence	english	audio_file
 47	qué	¿Qué vas a hacer este fin de semana?	What are you going to do this weekend?	Que_vas_a_hacer_este_fin_de_semana_spanish.mp3
 48	yo	Yo voy al cine este fin de semana.	I'm going to the movies this weekend.	Yo_voy_al_cine_este_fin_de_semana_spanish.mp3
 49	vez	¿Te acuerdas de la vez que fuimos a la playa?	Do you remember the time we went to the beach?	Te_acuerdas_de_la_vez_que_fuimos_a_la_playa_spanish.mp3
-50	alguno	No tengo alguno de esos libros que buscas.	I don't have any of those books you're looking for.	No_tengo_alguno_de_esos_libros_que_buscas_spanish.mp3
+50	alguno	¿Tienes alguno de esos libros que busco?	Do you have any of those books I'm looking for?	Tienes_alguno_de_esos_libros_que_busco_spanish.mp3
 51	entre	El libro está entre la mesa y la silla.	The book is between the table and the chair.	El_libro_esta_entre_la_mesa_y_la_silla_spanish.mp3
 52	también	A mí también me gusta el helado de chocolate.	I also love chocolate ice cream.	A_mi_tambien_me_gusta_el_helado_de_chocolate_spanish.mp3
 53	mi	Mi hermana siempre llega tarde a las reuniones.	My sister is always late to the meetings.	Mi_hermana_siempre_llega_tarde_a_las_reuniones_spanish.mp3
@@ -70,8 +70,8 @@ rank	word	sentence	english	audio_file
 69	poco	Solo tengo poco tiempo para terminar el proyecto.	I only have a little time to finish the project.	Solo_tengo_poco_tiempo_para_terminar_el_proyecto_spanish.mp3
 70	sí	Sí, quiero ir al cine esta noche.	Yes, I want to go to the movies tonight.	Si_quiero_ir_al_cine_esta_noche_spanish.mp3
 71	bien	Todo salió bien en la reunión de hoy.	Everything went well in today’s meeting.	Todo_salio_bien_en_la_reunion_de_hoy_spanish.mp3
-72	deber	Tengo que deberle dinero a mi amigo.	I owe my friend some money.	Tengo_que_deberle_dinero_a_mi_amigo_spanish.mp3
-73	uno	Tengo un perro que se llama Max.	I have a dog named Max.	Tengo_un_perro_que_se_llama_Max_spanish.mp3
+72	deber	Debo llamar a mi madre esta noche.	I must call my mother tonight.	Debo_llamar_a_mi_madre_esta_noche_spanish.mp3
+73	uno	Solo tengo uno, pero te lo presto.	I only have one, but I'll lend it to you.	Solo_tengo_uno_pero_te_lo_presto_spanish.mp3
 74	pasar	¿Puedes pasarme la sal, por favor?	Can you pass me the salt, please?	Puedes_pasarme_la_sal_por_favor_spanish.mp3
 75	poner	Voy a poner la mesa para la cena.	I'm going to set the table for dinner.	Voy_a_poner_la_mesa_para_la_cena_spanish.mp3
 76	cosa	Necesito comprar una cosa para la fiesta de mañana.	I need to buy something for tomorrow's party.	Necesito_comprar_una_cosa_para_la_fiesta_de_manana_spanish.mp3
@@ -85,7 +85,7 @@ rank	word	sentence	english	audio_file
 84	tanto	Ella tiene tanto trabajo que no puede salir hoy.	She has so much work that she can't go out today.	Ella_tiene_tanto_trabajo_que_no_puede_salir_hoy_spanish.mp3
 85	después	Vamos a cenar y después veremos una película.	Let's have dinner and then we'll watch a movie.	Vamos_a_cenar_y_despues_veremos_una_pelicula_spanish.mp3
 86	quedar	¿Te gustaría quedar para tomar un café mañana?	Would you like to meet for a coffee tomorrow?	Te_gustaria_quedar_para_tomar_un_cafe_manana_spanish.mp3
-87	donde	¿Dónde está el restaurante que me recomendaste?	Where is the restaurant you recommended to me?	Donde_esta_el_restaurante_que_me_recomendaste_spanish.mp3
+87	donde	Esta es la casa donde vivo.	This is the house where I live.	Esta_es_la_casa_donde_vivo_spanish.mp3
 88	siempre	Siempre voy al mercado los domingos.	I always go to the market on Sundays.	Siempre_voy_al_mercado_los_domingos_spanish.mp3
 89	vida	La vida es corta, así que debemos disfrutar cada momento.	Life is short, so we should enjoy every moment.	La_vida_es_corta_asi_que_debemos_disfrutar_cada_m_spanish.mp3
 90	hablar	Siempre me gusta hablar con mis amigos después de clase.	I always enjoy talking with my friends after class.	Siempre_me_gusta_hablar_con_mis_amigos_despues_de_spanish.mp3

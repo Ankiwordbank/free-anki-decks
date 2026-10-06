@@ -8,12 +8,6 @@ keeps your progress.
 - **File:** [`french-top-1000-first-100.apkg`](french-top-1000-first-100.apkg)
 - **Every card:** [`words.tsv`](words.tsv) (rank, word, French sentence, English, audio file)
 - **Notes:** 100, one card each. All 100 have audio.
-- **Cards:** English sentence on the front; French sentence and audio on the back. The target word is in bold on 88 of 100 cards.
+- **Cards:** English sentence on the front; French sentence and audio on the back. The target word is in bold on 92 of 100 cards.
 - **Word list:** ranked by frequency over word forms (*la, pas, je, que, le*), so contractions like *c'*, *l'* and *j'* count as separate entries. The source list was not recorded when the deck was built (December 2025).
 - **Audio:** neural text-to-speech (synthetic voice).
-
-## Known issues
-
-- #31 (*qu'*): "Je ne sais pas qu'il vient ce soir" is ungrammatical, and the English is in the past tense ("I didn't know he was coming tonight").
-- #47 (*m'*): "M'ennuie un peu" is missing its subject; it should be "Je m'ennuie un peu".
-- #14 (*a*), #59 (*se*), #75 (*es*), #88 (*ou*): the listed word doesn't appear in the sentence. The sentences use *à*, *me*, *c'est* and *où* instead.
