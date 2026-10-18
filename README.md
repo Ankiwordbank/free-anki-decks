@@ -12,9 +12,9 @@ also has a plain-text `words.tsv`, so you can see every card before you download
 |---|---|---|---|
 | [Spanish Top 1000: first 100](decks/spanish-top-1000-first-100/) | Spanish | 100 | Ranks 1–100 of our paid [Spanish Top 1000](https://ankiwordbank.com/decks/spanish-top-1000-most-common-words) deck |
 | [French Top 1000: first 100](decks/french-top-1000-first-100/) | French | 100 | Ranks 1–100 of our paid [French Top 1000](https://ankiwordbank.com/decks/french-complete-1000-most-common-words-audio) deck |
-| [Spanish verbs](decks/spanish-verbs-50/) | Spanish | 52 (51 after import) | 51 common verbs in example sentences |
-| [German verbs](decks/german-verbs-50/) | German | 50 | 50 common verbs in example sentences |
-| [Portuguese verbs](decks/portuguese-verbs-50/) | Portuguese (Brazil) | 54 | 30 core verbs and 24 everyday verb phrases |
+| [Spanish verbs](decks/spanish-verbs-50/) | Spanish | 52 (51 after import) | 51 common verbs in example sentences. Next: [300 Spanish verbs](https://ankiwordbank.com/decks/spanish-most-common-verbs-300) |
+| [German verbs](decks/german-verbs-50/) | German | 50 | 50 common verbs in example sentences. Next: [300 German verbs](https://ankiwordbank.com/decks/german-most-common-verbs-300) |
+| [Portuguese verbs](decks/portuguese-verbs-50/) | Portuguese (Brazil) | 54 | 30 core verbs and 24 everyday verb phrases. Next: [Portuguese Top 1000](https://ankiwordbank.com/decks/portuguese-top-1000-most-common-words-native-audio) |
 
 ## What's on a card
 
